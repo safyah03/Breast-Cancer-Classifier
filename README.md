@@ -1,5 +1,3 @@
 In recent years, diagnosing breast tumors has become one of the most significant challenges in the medical field, as early diagnosis can greatly impact treatment outcomes and chances of recovery. Malignant breast tumors pose a considerable risk to patients' lives and require intensive medical intervention, while benign tumors are generally less harmful. This highlights the need for effective tools that can assist doctors in accurately and easily distinguishing between malignant and benign breast tumors. This project aims to develop a machine learning model, to provide a tool that helps doctors determine the nature of breast tumors based on their characteristics. This model can offer substantial value in supporting medical decisions by providing a quick preliminary diagnosis, potentially reducing the need for complex diagnostic procedures and saving doctors both time and effort.
 
-Team members:
-1-Sara Atef Othman Mohammed | سارة عاطف عثمان محمد (Sec 3)
-2-Safia Nashaat Ali Mohammed | صفية نشأت علي محمد (Sec 4)
+Team members: Sara Atef Othman Mohammed , Safia Nashaat Ali Mohammed
